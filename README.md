@@ -22,6 +22,7 @@
    - Option 2: Decrypt a message
    - Option 3: Exit the program
 ---
+## Example
 ``` bash
 ========= Rail Fence Cipher ========
 1 . Encrypt
